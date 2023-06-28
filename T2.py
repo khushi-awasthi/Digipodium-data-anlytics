@@ -1,5 +1,13 @@
 from turtle import *
-fd()
-lt(120)
-fd(60,80)
+lt(90)
+fd(200)
+bk(100)
+rt(45)
+fd(140)
+bk(140)
+rt(90)
+fd(140)
+
+hideturtle()
 mainloop()
+                        
