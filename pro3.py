@@ -1,0 +1,7 @@
+a = input("enter your name:")
+#print(a)
+print("my name is", a)
+x = input("Enter first name:")
+y = input("Enter second number")
+print(x + y)
+print(int(x)+int(y))
