@@ -1,7 +1,7 @@
 from turtle import *
 speed('fastest')
 bgcolor('black')
-colors = ['red','orange','yellow','green','blue','purple']
+colors = ['red','blue','purple','pink','orange','skyblue']
 i=0
 while True:
     pencolor(colors[i%6])

@@ -1,2 +1,21 @@
-# hey khushi ,please don't remove this line
-print ("hey i am a good girl \nand this viewer is also a good boy/girl" )
+#from turtle import *
+#speed('fastest')
+#color('red','yellow')
+#begin_fill()
+#while True:
+ #   forward(200)
+  #  left(170)
+   # if abs(pos())<1:
+    #    break
+#end_fill()
+#done()
+
+
+import turtle
+t=turtle.Turtle()
+
+r=10
+n=10
+
+for i in range(1, n+1 ,1):
+    t.circle(r*i)
